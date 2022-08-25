@@ -1,2 +1,3 @@
 # BoltIOT_internship
 Inventrom website
+This is just a simple website with html and css. I built this for an online internship for BOLT IOT. They provide various internships which include IOT, ML...
